@@ -18,3 +18,4 @@ public class MultiplyTwoNumbers {
         System.out.println("The product is: " + product);
     }
 }
+new code by dev-1 without pull the code
